@@ -14,5 +14,21 @@
 	    "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f514e4165a990f016f5459d92c5b0ef81560592929_fwide.jpg",
 			"type": "Dubbed",
 			"media": "Movies"
+	  },
+	  {
+		"id": 3,
+		"episode.title": "The Lion Awakens",
+	    "next": "Up Next: S1 E132",
+	    "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/3a52cdb6532c94759d5c6ba8345045b91588057412_fwide.jpg",
+			"type": "Subtitled",
+			"media": "Series"
+	  }
+	  {
+		"id": 4,
+		"episode.title": "Golden Wind Requiem",
+	    "next": "Up Next: S4 E38",
+	    "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/4ef7702e5a24d7064795be85982f7b251564300736_fwide.jpg",
+			"type": "Subtitled",
+			"media": "Series"
 	  }
 ]
