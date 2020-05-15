@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"series.title": "One Piece",
+		"episode.title": "S1 E1 - Hier kommt Ruffy, der künftige König der Piraten!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/8bbc912efbdbcf655012d909904ff122.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 2,
+		"series.title": "One Piece",
+		"episode.title": "S1 E2 - Piratenjäger Lorenor Zorro",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/14467ea40177fb7dd88aa0c067acc46b.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 3,
+		"series.title": "One Piece",
+		"episode.title": "S1 E3 - Käpt'n Morgan gegen Ruffy!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/c4475a273780c10abdc1422b0e56713e.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 4,
+		"series.title": "One Piece",
+		"episode.title": "S1 E4 - Der rote Shanks und sein Hut",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/2471c70979be4a83f78ace6df8b06ea9.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 5,
+		"series.title": "One Piece",
+		"episode.title": "S1 E5 - Buggy, der Clown!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/e44e803ce761d6d5c27fba04e9fb8ac7.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 6,
+		"series.title": "One Piece",
+		"episode.title": "S1 E6 - Dompteur Moji gegen Ruffy!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/04707d3f4f90fe8d818678630af43890.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 7,
+		"series.title": "One Piece",
+		"episode.title": "S1 E7 - Jongleur Kabaji gegen Zorro!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/712c7791d6e762f57ae5459e0ed948f5.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 8,
+		"series.title": "One Piece",
+		"episode.title": "S1 E8 - Die Teufelsfrucht",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/a57c15b87dcfd41234e3d5f592f0db34.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 9,
+		"series.title": "One Piece",
+		"episode.title": "S1 E9 - The Honorable Liar' Captain Usopp!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/588d3875fed2d44b3aef53a17598651c.jpg",
+		"type": "Untertitel"
+	  },
+	  {
+		"id": 10,
+		"series.title": "One Piece",
+		"episode.title": "S1 E10 - The Weirdest Guy Ever! Jango the Hypnotist!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/07db4980fadb56f677864ec7d9c27fb9.jpg",
+		"type": "Untertitel"
+	  }
+]

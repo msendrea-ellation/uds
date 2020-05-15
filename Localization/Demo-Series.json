@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"episode.title": "The Boar Bares Its Fangs, Zenitsu Sleeps",
+	    "next": "Up Next: S1 E1",
+	    "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/6070dc5bcb56020bbcb0c1981378ac261561190278_fwide.jpg",
+			"type": "Subtitled",
+			"media": "Series"
+	  },
+	  {
+		"id": 2,
+		"episode.title": "Tsuzumi Mansion",
+	    "next": "Up Next: S1 E11",
+	    "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f514e4165a990f016f5459d92c5b0ef81560592929_fwide.jpg",
+			"type": "Dubbed",
+			"media": "Movies"
+	  }
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"series.title": "One Piece",
+		"episode.title": "S1 E1 - Я — Луффи! Я стану Королём пиратов!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/8bbc912efbdbcf655012d909904ff122.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 2,
+		"series.title": "One Piece",
+		"episode.title": "S1 E2 - Появление великого фехтовальщика! Охотник на пиратов Ророноа Зоро",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/14467ea40177fb7dd88aa0c067acc46b.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 3,
+		"series.title": "One Piece",
+		"episode.title": "S1 E3 - Морган против Луффи! Кто эта загадочная красотка?",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/c4475a273780c10abdc1422b0e56713e.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 4,
+		"series.title": "One Piece",
+		"episode.title": "S1 E4 - Прошлое Луффи! Появление Рыжего Шанкса!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/2471c70979be4a83f78ace6df8b06ea9.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 5,
+		"series.title": "One Piece",
+		"episode.title": "S1 E5 - Какой ужас, таинственная сила! Пират-клоун, капитан Багги!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/e44e803ce761d6d5c27fba04e9fb8ac7.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 6,
+		"series.title": "One Piece",
+		"episode.title": "S1 E6 - Отчаянное положение! Укротитель Модзи против Луффи!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/04707d3f4f90fe8d818678630af43890.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 7,
+		"series.title": "One Piece",
+		"episode.title": "S1 E7 - Великий поединок! Фехтовальщик Зоро против акробата Кабадзи!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/712c7791d6e762f57ae5459e0ed948f5.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 8,
+		"series.title": "One Piece",
+		"episode.title": "S1 E8 - Кто победит? Столкновение двух дьявольских способностей!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/a57c15b87dcfd41234e3d5f592f0db34.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 9,
+		"series.title": "One Piece",
+		"episode.title": "S1 E9 - Честный врун? Капитан Усопп!",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/588d3875fed2d44b3aef53a17598651c.jpg",
+		"type": "Субтитрован"
+	  },
+	  {
+		"id": 10,
+		"series.title": "One Piece",
+		"episode.title": "S1 E10 - Самый сильный чудак в истории! Гипнотизёр Джанго",
+	    "image": "https://static.vrv.co/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/07db4980fadb56f677864ec7d9c27fb9.jpg",
+		"type": "Субтитрован"
+	  }
+]
